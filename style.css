@@ -1,0 +1,130 @@
+body{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	
+}
+.header{
+	float:right;
+	
+}
+.header a,.header button{
+	margin:10px;
+	
+	color:#000;
+	text-decoration:none;
+}
+.header button{
+	background-color:#4484F1;
+	padding:8px;
+	font-size:15px;
+	color:#fff;
+	border-radius:1%;
+	font-weight:bold;
+}
+.main{
+	text-align:center;
+}
+.main div{
+	margin-top:15px;
+}
+.ilogo-img img{
+   width:500px;
+   height:200px;
+   margin-top:10%;
+   margin-left:10%;
+}
+.logo-img img{
+   width:500px;
+   height:200px;
+   margin-top:10%;
+   margin-left:20%;
+}
+.search-box input{
+	width:664px;
+	height:42px;
+	border-radius:64px;
+	outline:none;
+}
+.btn input[value="Google Search"]{
+	width:125px;
+	height:36px;
+	margin-right:30px;
+}
+.btn input[value="I'm feeling Lucky"]{
+	width:125px;
+	height:36px;
+	margin-right:30px;
+}
+.btn input[value="Image Search"]{
+	width:125px;
+	height:36px;
+	margin-right:30px;
+}
+
+.imagesearchheader{
+	float:right;
+	
+}
+.imagesearchheader a{
+	margin:10px;
+	
+	color:#000;
+	text-decoration:none;
+	
+}
+.header-advanced{
+	
+	background-color:#F3EFF0;
+	
+	height:100px;
+	
+}
+.header-advanced button{
+	float:right;
+	margin-top:1%;
+	background-color:#4484F1;
+	padding:10px;
+	font-size:15px;
+	color:#fff;
+	border-radius:1%;
+	font-weight:bold;
+}
+.main-advanced{
+	color:red;
+	margin:10px;
+	padding:10px;
+	font-size:20px;
+}	
+hr{
+	border: 1px solid black;
+	
+}
+.search-option{
+	padding:10px;
+	margin:10px;
+}
+.search-option label {
+  padding: 12px 12px  0;
+  display: inline-block;
+}
+.search-option input[type=text]{
+	width:600px;
+	height:40px;
+	box-sizing: border-box;
+    resize: vertical;
+    border: 1px solid #ccc;
+	
+
+}
+.search-option  input[type=submit]{
+	background-color:#4484F1;
+		
+	padding:8px;
+	font-size:15px;
+	color:#fff;
+	border-radius:1%;
+	font-weight:bold;
+	
+	
+}
